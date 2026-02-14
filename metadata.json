@@ -1,0 +1,7 @@
+{
+  "name": "KIMPC MANAGEMENT SYSTEM",
+  "description": "A comprehensive financial management system for cooperatives featuring membership tracking, automated ledger management, and Gemini-powered financial insights and receipt analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
